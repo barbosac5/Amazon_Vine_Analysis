@@ -40,7 +40,7 @@ Using PySpark (in Google Collaboratory), I determined any biases towards reviews
   - What percentage of Vine reviews were 5-stars? What percentage of non-Vine reviews were 5-stars?
 
 #### Images for Deliverable 2
-(insert D2 df here)
+##### 
 
 
 ## Summary
