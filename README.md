@@ -7,10 +7,31 @@ The purpose of this analysis is to choose from 50 datasets for Amazon Vine and u
 For this Deliverable, I created an AWS RDS database with tables in pgAdmin, picked a dataset from the link provided, and extracted the dataset into a data frame. I transformed the data frame into four separate data frames that mach the schema of pgAdmin. Finally, I uploaded the data into the appropriate tables and ran queries in pgAdmin.
 
 #### Images for Deliverable 1
-- (insert dfs here)
-- (insert pgadmin tables here)
+##### Customer Database
+![Customers_db](./Amazon_Vine_Analysis/Customers_db.png)
 
+##### Product Database
+![Product_db](./Amazon_Vine_Analysis/Product_db.png)
+
+##### Review Database
+![Review_id_db](./Amazon_Vine_Analysis/Review_id_db.png)
+
+##### Vine Database
+![Vine_db](./Amazon_Vine_Analysis/Vine_db.png)
+
+
+##### pgAdmin Tables
+###### Customers Table
 ![customers_table](./Amazon_Vine_Analysis/customers_table.png)
+
+###### Products Table
+![products_table](./Amazon_Vine_Analysis/products_table.png)
+
+###### Review ID Table
+![review_id_table](./Amazon_Vine_Analysis/review_id_table.png)
+
+###### Vine Table 
+![vine_table](./Amazon_Vine_Analysis/vine_table.png)
 
 ### Deliverable 2: Determine Bias of Vine Reviews
 Using PySpark (in Google Collaboratory), I determined any biases towards reviews that were written as part of the Vine program and if having a paid Vine review makes a difference in the percentage of 5-star reviews.
