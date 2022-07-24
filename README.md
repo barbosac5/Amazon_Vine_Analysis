@@ -9,6 +9,7 @@ For this Deliverable, I created an AWS RDS database with tables in pgAdmin, pick
 #### Images for Deliverable 1
 (insert dfs here)
 (insert pgadmin tables here)
+[!customers_table](./Amazon_Vine_Analysis/vine_table.png)
 
 ### Deliverable 2: Determine Bias of Vine Reviews
 Using PySpark (in Google Collaboratory), I determined any biases towards reviews that were written as part of the Vine program and if having a paid Vine review makes a difference in the percentage of 5-star reviews.
