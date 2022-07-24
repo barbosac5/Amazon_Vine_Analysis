@@ -8,7 +8,7 @@ For this Deliverable, I created an AWS RDS database with tables in pgAdmin, pick
 
 #### Images for Deliverable 1
 ##### Customer Database
-![Customers_db](./Amazon_Vine_Analysis/Customers_db.png)
+![Customer_db](./Amazon_Vine_Analysis/Customer_db.png)
 
 ##### Product Database
 ![Product_db](./Amazon_Vine_Analysis/Product_db.png)
