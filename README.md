@@ -41,22 +41,22 @@ Using PySpark (in Google Collaboratory), I determined any biases towards reviews
 
 #### Images for Deliverable 2
 ##### Total Votes 
-![total_votes_db](./Amazon_Vine_Analysis/total_votes_db.png)
+![total_votes_df](./Amazon_Vine_Analysis/total_votes_df.png)
 
 ##### Helpful Votes 
-![helpful_votes_db](./Amazon_Vine_Analysis/helpful_votes_db.png)
+![helpful_votes_df](./Amazon_Vine_Analysis/helpful_votes_df.png)
 
 ##### Vine Paid Dataframe 
-![vine_paid_db](./Amazon_Vine_Analysis/vine_paid_db.png)
+![vine_paid_df](./Amazon_Vine_Analysis/vine_paid_df.png)
 
 ##### Vine Unpaid Dataframe 
-![vine_unpaid_db](./Amazon_Vine_Analysis/vine_unpaid_db.png)
+![vine_unpaid_df](./Amazon_Vine_Analysis/vine_unpaid_df.png)
 
 ##### Percentage of Vine Paid Reviews
-![percentage_paid_5-star_reviews](./Amazon_Vine_Analysis/percentage_paid_5-star_reviews.png)
+![percent_paid_5-star_reviews](./Amazon_Vine_Analysis/percent_paid_5-star_reviews.png)
 
 ##### Percentage of Vine Unpaid Reviews
-![percentage_unpaid_5-star_reviews](./Amazon_Vine_Analysis/percentage_unpaid_5-star_reviews.png)
+![percent_unpaid_5-star_reviews](./Amazon_Vine_Analysis/percent_unpaid_5-star_reviews.png)
 
 
 
