@@ -35,9 +35,14 @@ For this Deliverable, I created an AWS RDS database with tables in pgAdmin, pick
 
 ### Deliverable 2: Determine Bias of Vine Reviews
 Using PySpark (in Google Collaboratory), I determined any biases towards reviews that were written as part of the Vine program and if having a paid Vine review makes a difference in the percentage of 5-star reviews.
-  - How many Vine reviews and non-Vine reviews were there?
-  - How many Vine reviews were 5-stars? How many non-Vine reviews were 5 stars?
-  - What percentage of Vine reviews were 5-stars? What percentage of non-Vine reviews were 5-stars?
+  - For Deliverable 2 there were:
+    - 612 total Vine reviews
+    - 64968 total non-Vine reviews
+    - There were 222 total Vine 5-star reviews
+    - There were 30543 total non-Vine 5-star reviews
+    - The percentage of Vine 5-star reviews is 36.215 %
+    - The percentage of non-Vine 5-star reviews are 47.012 % 
+  
 
 #### Images for Deliverable 2
 ##### Total Votes 
@@ -59,13 +64,10 @@ Using PySpark (in Google Collaboratory), I determined any biases towards reviews
 ![percent_unpaid_5-star_reviews](./Amazon_Vine_Analysis/percent_unpaid_5-star_reviews.png)
 
 
-
-
-
 ## Summary
-Positivity bias for reviews in the vine program?
+According to my data, despite the Vine percentages are around a third of the percentage, there is no positvity bias due to the fact that the percentage of non-Vine reviews still holding a majority of the percentage. Out of the 612 total Vine reviews, only 222 were 5-star (about 36%). On the other hand, out of 64968 non-Vine reviews, there were 30543 5 star non-Vine reviews (this calculates to around 47%). This shows that almost half of the reviews for non-Vine users were 5-stars! Overall, there are more non-Vine reviews as well as more total 5-star non-Vine reviews which proves there is no postivity bias for the Vine program.
 
-One additional analysis that I could do with the dataset to supposrt statement.
+In order to further back up this statement, I think we can also use extra visualizations to give others an easier time to understand what the data is trying to tell us. An example would be a stacking bar chart (to show the total 5-star reviews) or a pie chart (to show the percentages of the 5-star reviews). I think extra visualizations like these can show the amount of Vine users compared to the others who simply just leave reviews for products they liked. I still think that the Vine program is a necessity to make sure Amazon delivers the best products for whoever order them. 
 
 ## Resources
 - Google Colaboratory
